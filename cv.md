@@ -6,6 +6,7 @@
 * *Location:* Gomel, Republic of Belarus    
 * *Email:* a.a.blinkova@mail.ru 
 * *Discord:* Nastachka1#1999
+* *Github:* Nastachka1
 
 **About me:** 
 
