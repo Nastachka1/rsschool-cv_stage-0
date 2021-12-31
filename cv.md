@@ -35,5 +35,6 @@ function multiply(a, b){
  
  **Languages:**
  + English (intermediate);
- + Spanish (basics).
+ + Spanish (basics);
+ + Polish (bacics).
  
